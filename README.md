@@ -3,7 +3,7 @@
 *ID:* CT04DA2294*
 *Domain*:*Data Analyst*
 *Duration*:*15 June to 15 July 2024*
-*Mentor*:**SRAVANI GOUNI*
+*Mentor*:*SRAVANI GOUNI*
 
 ## Overview of the Project
 
