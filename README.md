@@ -1,4 +1,4 @@
-**Name**:**CHARITHA CHOWDARY ENUKURTHI**
+*Name*:*CHARITHA CHOWDARY ENUKURTHI*
 **Company:**CODTECH IT SOLUTIONS**
 **ID:** CT04DA2294**
 **Domain**:**Data Analyst**
